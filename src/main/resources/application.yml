@@ -12,5 +12,3 @@ spring:
         predicates:
         - Path=/
         - Weight=group1,1
-server:
-  port: 8088
